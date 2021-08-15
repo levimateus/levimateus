@@ -6,7 +6,7 @@ _He/Him/His_
 Software Developer based in São Paulo, Brazil 🇧🇷
 
 
-🔭 I’m currently working on PHP applications, such as websites, ETL, Webcrawlers and RESTful APIs.
+🔭 I’m currently working on PHP applications, such as websites, ETL, Web crawlers and RESTful APIs.
 
 
-📫 Feel free to have a look on my Linkedin profile.
+📫 Feel free to have a look at my Linkedin profile.
