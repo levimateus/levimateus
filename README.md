@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi! My name is Mateus Levi 👋
+_He/Him/His_
 
-<!--
-**levimateus/levimateus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-levi-silva-martins)](www.linkedin.com/in/mateus-levi-silva-martins)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Software Developer based in São Paulo, Brazil 🇧🇷
+
+
+🔭 I’m currently working on PHP applications, such as websites, ETL, Webcrawlers and RESTful APIs.
+
+
+📫 Feel free to have a look on my Linkedin profile.
