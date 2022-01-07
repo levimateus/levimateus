@@ -8,5 +8,6 @@ Software Developer based in São Paulo, Brazil 🇧🇷
 
 🔭 I’m currently working on PHP applications, such as websites, ETL, Web crawlers and RESTful APIs.
 
+💡 I'm studying Containers, Orchestration and CI/CD.
 
 📫 Feel free to have a look at my Linkedin profile.
